@@ -15,7 +15,7 @@ namespace SpawningTools
         }
 
         // Function to instantiate an object at radius and angle away from an origin point
-        public GameObject SpawnObjectAtAngleAndRadius(Vector3 origin, float radius, float angle)
+        public GameObject SpawnObjectAtAngleAndRadius(Vector3 origin, float radiusDeg, float angle)
         {
             // Convert angle from degrees to radians
             angle *= Mathf.Deg2Rad;
@@ -26,9 +26,9 @@ namespace SpawningTools
 
             // Calculate new position
             Vector3 newPos = Vector3.zero;
-            newPos.x = origin.x + (radius * Mathf.Cos(angle));
+            newPos.x = origin.x + (radiusDeg * Mathf.Cos(angle));
             newPos.y = origin.y;
-            newPos.z = origin.z + (radius * Mathf.Sin(angle));
+            newPos.z = origin.z + (radiusDeg * Mathf.Sin(angle));
 
             // Set the new position and activate the object
             newObject.transform.position = newPos;
