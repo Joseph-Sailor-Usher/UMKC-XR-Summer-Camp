@@ -6,7 +6,7 @@ Unity 3D is a powerful and widely-used game development platform that allows dev
 - **Asset Store:** A marketplace where developers can purchase and download assets, plugins, and tools to speed up the development process. Such as the [[Meta XR All-In-One SDK]].
 - **Physics Engine:** Built-in physics engine to simulate real-world physics in games.
 - **Scripting API:** Uses C# for scripting, allowing for robust and flexible game logic.
-- **Graphics Rendering:** Supports both 2D and 3D rendering, with advanced features like shaders, lighting, and particle systems.
+- **Graphics Rendering:** Supports both 2D and 3D rendering, with advanced features like shaders, lighting, and particle systems. Assets can be made in 3D modeling software such as [[Blender]].
 - **Animation System:** Animator and Animation components for creating complex animations.
 - **User Interface (UI):** Tools for creating and managing game UIs.
 
@@ -45,7 +45,7 @@ Unity 3D is a powerful and widely-used game development platform that allows dev
 - **2018:** Unity 2018 introduced the Scriptable Render Pipeline (SRP), including URP and HDRP.
 - **2020:** Unity 2020 LTS release, focusing on long-term support and stability.
 
-### Learning Resources
+### Learning [[Resources]]
 - **Official Unity Documentation:** Comprehensive guides and API references provided by Unity.
 - **Unity Learn:** Online tutorials and courses for beginners and advanced users.
 - **Community Forums:** Active forums for getting help and sharing knowledge with other Unity developers.
