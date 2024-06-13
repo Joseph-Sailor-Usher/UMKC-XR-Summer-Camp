@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "4637526e03431269",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e5d2dbfeee28745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "524eee52df92ec66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/Meta XR All-In-One SDK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "119a35c9ced2ce12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9294cae0f9bf9913",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602570da7b40f94e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e338f7b186839187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "defd66c1a1b329bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81fa34713c085d9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dec4b695a7819b91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d83859770c832fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3316f32f5bbae52b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fdaa1755505115d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "140bb5e4b8dbbb58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9a18493792f34da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f394e2f865a4f13c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9294cae0f9bf9913",
+  "lastOpenFiles": [
+    "Tools/Meta XR All-In-One SDK.md.meta",
+    "Basics/CMR.md.meta",
+    "Basics/HMD.md.meta",
+    "Tools/Unity.md.meta",
+    "Basics/MR.md.meta",
+    "Basics/Haptic.md.meta",
+    "Basics.meta",
+    "Basics/VR.md.meta",
+    "Basics/AR.md.meta",
+    "Tools.meta",
+    "Tools/Meta XR All-In-One SDK.md",
+    "Tools/Unity.md",
+    "Basics/MR.md",
+    "Basics/AR.md",
+    "Basics/Haptic.md",
+    "Basics/CMR.md",
+    "Tools",
+    "Basics/HMD.md",
+    "Basics/VR.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
