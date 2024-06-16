@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Unity.md",
+                "file": "Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "119a35c9ced2ce12",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9294cae0f9bf9913",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -112,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Syllabus.md"
+              }
             }
           }
         ]
@@ -169,8 +159,72 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9294cae0f9bf9913",
+  "floating": {
+    "id": "7d889b81bcdd48f3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "64b46f1142885630",
+        "type": "window",
+        "children": [
+          {
+            "id": "724dcc390944d74b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9294cae0f9bf9913",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ff6f3e94be69cd74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Syllabus.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7dd718921289c578",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2023 Course Content/2023 Syllabus (Do not use).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical",
+        "x": 2560,
+        "y": 0,
+        "width": 854,
+        "height": 960,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0bb30821d38f8844",
   "lastOpenFiles": [
+    "2023 Course Content/2023 Syllabus (Do not use).md",
+    "Syllabus.md",
+    "Untitled",
+    "2023 Course Content",
+    "Basics/Haptic.md",
+    "Basics/AR.md",
     "Tools/Blender.md.meta",
     "Tools/Obsidian.md.meta",
     "Tools/Unity.md",
@@ -184,12 +238,7 @@
     "Basics/HMD.md.meta",
     "Tools/Unity.md.meta",
     "Basics/MR.md.meta",
-    "Basics/Haptic.md.meta",
-    "Basics.meta",
-    "Basics/VR.md.meta",
     "Basics/MR.md",
-    "Basics/AR.md",
-    "Basics/Haptic.md",
     "Basics/CMR.md",
     "Basics/HMD.md",
     "Basics/VR.md",
