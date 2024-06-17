@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Unity.md",
+                "file": "Syllabus/2024 Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 300
   },
   "right": {
     "id": "2d83859770c832fd",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Unity.md",
+                "file": "Syllabus/2024 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Unity.md",
+                "file": "Syllabus/2024 Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Unity.md"
+                "file": "Syllabus/2024 Syllabus.md"
               }
             }
           }
@@ -159,67 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "7d889b81bcdd48f3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "64b46f1142885630",
-        "type": "window",
-        "children": [
-          {
-            "id": "724dcc390944d74b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ff6f3e94be69cd74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Syllabus/2024 Syllabus.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7dd718921289c578",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2023 Course Content/2023 Syllabus (Do not use).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2560,
-        "y": 0,
-        "width": 854,
-        "height": 960,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "0bb30821d38f8844",
   "lastOpenFiles": [
-    "Basics/AR.md",
     "Syllabus/Intro to VR and AR.md",
     "Syllabus/2024 Syllabus.md",
-    "2023 Course Content/2023 Syllabus (Do not use).md",
+    "Tools/Unity.md",
     "Syllabus",
+    "2023 Course Content/2023 Syllabus (Do not use).md",
     "2023 Course Content",
-    "Basics/Haptic.md",
     "Tools/Blender.md.meta",
     "Tools/Obsidian.md.meta",
-    "Tools/Unity.md",
     "Tools/Resources.md",
     "Tools/Obsidian.md",
     "Tools/Blender.md",
@@ -231,6 +180,8 @@
     "Tools/Unity.md.meta",
     "Basics/MR.md.meta",
     "Basics/MR.md",
+    "Basics/AR.md",
+    "Basics/Haptic.md",
     "Basics/CMR.md",
     "Basics/HMD.md",
     "Basics/VR.md",

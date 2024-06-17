@@ -1,4 +1,2 @@
 ### The Plaster Center at UMKC
 The Robert W. Plaster Free Enterprise and Research Center is the largest privately-funded capital project in UMKC history, featuring 11 state-of-the-art research labs including a 3D printing lab and fabrication studio, high-performance computing and analytics, an FAA-approved flight simulator, a two-story drone flight-testing bay, and an augmented and virtual reality lab, and serves as a community hub open to students, faculty, and regional innovators, thanks to the Robert W. Plaster Foundation.
-
-### 
