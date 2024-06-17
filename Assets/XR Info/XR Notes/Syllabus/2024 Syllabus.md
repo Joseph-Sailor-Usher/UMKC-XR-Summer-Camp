@@ -4,17 +4,16 @@ By the end of this course, students will have gained a solid foundation in Unity
 ### Schedule for June 2024
 ### 19th, Wednesday
 **Event:** Introduction of VR and AR  
-**Time:** 7:30am - 8:30am  
+**Time:** 7:30am - 8:30am
+**Home Work:** Install all the tools.
 ### 20th, Thursday
 **Event:** VR Tools and Pre-Study  
 **Time:** 8:30am - 9:00am
 ### 24th, Monday
 **Event:** Meta world Game / Training / Tour Devices play  
 **Time:** 2:00pm - 3:00pm
-
 **Event:** Students share their experiences and thoughts  
 **Time:** 3:00pm - 3:20pm
-
 **Event:** Project 1: Virtual Reality Unity “Build the research lab”  
 **Time:** 3:30pm - 4:30pm
 ### 25th, Tuesday
