@@ -1,5 +1,5 @@
 ### Introduction
-VR (Virtual Reality) refers to totally immersive technologies.
+Virtual Reality (VR) technology immerses users in a fully digital environment, creating a simulated experience that can mimic or differ entirely from the real world.
 
 ## Etymology
 "Virtual" has had the meaning of "being something in essence or effect, though not actually or in fact" since the mid-1400s.
@@ -22,7 +22,8 @@ The term "virtual" has been used in the computer sense of "not physically exist
     - **Input Devices:** Motion controllers, optical tracking sensors, wired gloves.
     - **VR Cameras:** 360-degree panorama videos, mixed reality content.
 - **Software:**
-    - **VRML:** Virtual Reality Modelling Language for developing virtual worlds.
+    - **Unity 3D:** Game Engine for developing virtual worlds.
+    - **Unreal Engine:** Game Engine similar to Unity 3D.
     - **WebVR:** JavaScript API supporting various VR devices in web browsers.
 
 ### Applications of VR

@@ -5,7 +5,6 @@ By the end of this course, students will have gained a solid foundation in Unity
 ### 19th, Wednesday
 **Event:** Introduction of VR and AR  
 **Time:** 7:30am - 8:30am  
-**Preparation:** Make a presentation
 ### 20th, Thursday
 **Event:** VR Tools and Pre-Study  
 **Time:** 8:30am - 9:00am
