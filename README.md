@@ -40,7 +40,7 @@ Welcome to the UMKC XR Summer Camp! This program is designed to immerse students
 ### Unity
 - **Beginner:** Unity Microgames
 - **Intermediate (optional):** Create with Code
-- **Advanced (optional):** Create with VR, Developing for VisionOS with Unity, Catlike Coding
+- **Advanced (optional):** Create with VR, Developing for VisionOS with Unity
 
 ### GitHub
 - **Starter Project:**
