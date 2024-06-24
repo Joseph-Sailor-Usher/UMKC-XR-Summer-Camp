@@ -60,18 +60,18 @@ Welcome to the UMKC XR Summer Camp! This program is designed to immerse students
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="27.png" style="width: 40%; height: auto;"><br>
+      <img src="27.png" style="width: 40%; height: 40%;"><br>
     </td>
     <td style="text-align: center;">
-      <img src="28.png" style="width: 40%; height: auto;"><br>
+      <img src="28.png" style="width: 40%; height: 40%;"><br>
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="29.png" style="width: 40%; height: auto;"><br>
+      <img src="29.png" style="width: 40%; height: 40%;"><br>
     </td>
     <td style="text-align: center;">
-      <img src="30.png" style="width: 40%; height: auto;"><br>
+      <img src="30.png" style="width: 40%; height: 40%;"><br>
     </td>
   </tr>
 </table>
