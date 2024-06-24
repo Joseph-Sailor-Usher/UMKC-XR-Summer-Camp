@@ -2,16 +2,6 @@
 
 Welcome to the UMKC XR Summer Camp! This program is designed to immerse students in the exciting world of virtual and augmented reality. By the end of this camp, students will have a solid foundation in Unity and the skills necessary to create their own immersive experiences.
 
-## Overview
-
-Virtual Reality (VR) technology immerses users in a fully digital environment, creating a simulated experience that can mimic or differ entirely from the real world.
-
-Augmented Reality (AR) technology overlays digital content onto the real world, enhancing the user's perception of their environment.
-
-Mixed Reality (MR) refers to the merging of a real-world environment and a computer-generated one, where physical and virtual objects co-exist and interact in real time.
-
-By the end of this course, students will have gained a solid foundation in Unity and immersive experience development. They will have learned the practical skills necessary to create their own immersive experiences. This curriculum aims to inspire students to continue exploring the exciting world of spatial computing beyond the course.
-
 ## Schedule for June 2024
 
 ### 19th, Wednesday
@@ -64,17 +54,9 @@ By the end of this course, students will have gained a solid foundation in Unity
 
 ## Learning Approach
 
-Our camp uses the latest teaching methods and research in XR education, focusing on:
-
 1. **Project-Based Learning:** Hands-on projects to apply theoretical knowledge.
 2. **Collaborative Learning:** Group activities and sharing sessions to enhance peer learning.
 3. **Adaptive Learning:** Customized assignments and tasks based on individual progress and interest.
 4. **Reflective Practice:** Encouraging students to reflect on their experiences and learning process.
 
 We aim to create an engaging and supportive environment where students can explore, create, and innovate in the field of XR technology.
-
----
-
-For any questions or additional information, feel free to contact the camp organizers at [email@example.com].
-
-Let's make this summer a memorable and transformative experience in the world of XR!
