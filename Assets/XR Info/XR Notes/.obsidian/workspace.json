@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Tool Download List.md",
+                "file": "Syllabus/2024 Syllabus.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ee8503357f8831f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0324ad82c15b604",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus/Tool Download List.md",
+                "file": "Syllabus/2024 Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus/Tool Download List.md",
+                "file": "Syllabus/2024 Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus/Tool Download List.md"
+                "file": "Syllabus/2024 Syllabus.md"
               }
             }
           }
@@ -148,8 +162,8 @@
   },
   "active": "0bb30821d38f8844",
   "lastOpenFiles": [
-    "Syllabus/Resources.md",
     "Syllabus/Tool Download List.md",
+    "Syllabus/Resources.md",
     "Syllabus/2024 Syllabus.md",
     "Syllabus/Intro to VR and AR.md",
     "2023 Course Content/2023 Syllabus (Do not use).md",
