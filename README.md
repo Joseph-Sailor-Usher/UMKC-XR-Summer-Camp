@@ -57,24 +57,28 @@ Welcome to the UMKC XR Summer Camp! This program is designed to immerse students
 ### Blender
 - **Installing Blender:** [Blender](https://www.blender.org)
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <div>
-    <img src="27.png" alt="Virtual Reality" style="width: 100%; height: auto;">
-    <p style="text-align: center;">Virtual Reality</p>
-  </div>
-  <div>
-    <img src="28.png" alt="Augmented Reality" style="width: 100%; height: auto;">
-    <p style="text-align: center;">Augmented Reality</p>
-  </div>
-  <div>
-    <img src="29.png" alt="Mixed Reality" style="width: 100%; height: auto;">
-    <p style="text-align: center;">Mixed Reality</p>
-  </div>
-  <div>
-    <img src="30.png" alt="Unity" style="width: 100%; height: auto;">
-    <p style="text-align: center;">Unity</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="27.png" alt="Virtual Reality" style="width: 100px; height: auto;"><br>
+      <p>Virtual Reality</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="28.png" alt="Augmented Reality" style="width: 100px; height: auto;"><br>
+      <p>Augmented Reality</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="29.png" alt="Mixed Reality" style="width: 100px; height: auto;"><br>
+      <p>Mixed Reality</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="30.png" alt="Unity" style="width: 100px; height: auto;"><br>
+      <p>Unity</p>
+    </td>
+  </tr>
+</table>
 
 ## Learning Approach
 
