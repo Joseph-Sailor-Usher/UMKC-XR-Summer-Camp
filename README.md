@@ -39,6 +39,10 @@ Welcome to the UMKC XR Summer Camp! This program is designed to immerse students
 
 ## Resources
 
+### Hardware
+
+![A combination of many photos of headsets and displays.](15.png)
+
 ### Unity
 - **Beginner:** Unity Microgames
 - **Intermediate (optional):** Create with Code
