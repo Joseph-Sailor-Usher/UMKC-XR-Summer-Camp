@@ -57,6 +57,25 @@ Welcome to the UMKC XR Summer Camp! This program is designed to immerse students
 ### Blender
 - **Installing Blender:** [Blender](https://www.blender.org)
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="flex: 1; margin: 10px;">
+    <img src="27.png" alt="Virtual Reality" style="width: 100%; height: auto;">
+    <p style="text-align: center;">Virtual Reality</p>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <img src="28.png" alt="Augmented Reality" style="width: 100%; height: auto;">
+    <p style="text-align: center;">Augmented Reality</p>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <img src="29.png" alt="Mixed Reality" style="width: 100%; height: auto;">
+    <p style="text-align: center;">Mixed Reality</p>
+  </div>
+  <div style="flex: 1; margin: 10px;">
+    <img src="30.png" alt="Unity" style="width: 100%; height: auto;">
+    <p style="text-align: center;">Unity</p>
+  </div>
+</div>
+
 ## Learning Approach
 
 1. **Project-Based Learning:** Hands-on projects to apply theoretical knowledge.
