@@ -43,14 +43,13 @@ Welcome to the UMKC XR Summer Camp! This program is designed to immerse students
 - **Advanced (optional):** Create with VR, Developing for VisionOS with Unity, Catlike Coding
 
 ### GitHub
-- **Starter Project:** [Link to repository]
+- **Starter Project:**
 
 ### Obsidian
 - **Installation and Setup:** [Obsidian](https://obsidian.md)
 
 ### Blender
 - **Installing Blender:** [Blender](https://www.blender.org)
-- **Tutorials:** Blender Guru, CrossMind Studio, Meta
 
 ## Learning Approach
 
