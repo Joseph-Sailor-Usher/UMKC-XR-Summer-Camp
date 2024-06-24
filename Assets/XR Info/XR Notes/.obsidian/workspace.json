@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Tool Download List.md",
+                "file": "Syllabus/2024 Syllabus.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "91870f4351ad4348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a12cf2e6b5c26f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus/Tool Download List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus/Tool Download List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Syllabus/Tool Download List.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bb30821d38f8844",
+  "active": "34a12cf2e6b5c26f",
   "lastOpenFiles": [
-    "Syllabus/Resources.md",
-    "Syllabus/Tool Download List.md",
     "Syllabus/2024 Syllabus.md",
+    "Syllabus/Tool Download List.md",
+    "Syllabus/Resources.md",
     "Syllabus/Intro to VR and AR.md",
     "2023 Course Content/2023 Syllabus (Do not use).md",
     "Tools/Unity.md",
