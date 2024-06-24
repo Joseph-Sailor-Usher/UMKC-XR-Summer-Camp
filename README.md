@@ -60,22 +60,18 @@ Welcome to the UMKC XR Summer Camp! This program is designed to immerse students
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="27.png" alt="Virtual Reality" style="width: 100px; height: auto;"><br>
-      <p>Virtual Reality</p>
+      <img src="27.png" style="width: 40%; height: auto;"><br>
     </td>
     <td style="text-align: center;">
-      <img src="28.png" alt="Augmented Reality" style="width: 100px; height: auto;"><br>
-      <p>Augmented Reality</p>
+      <img src="28.png" style="width: 40%; height: auto;"><br>
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="29.png" alt="Mixed Reality" style="width: 100px; height: auto;"><br>
-      <p>Mixed Reality</p>
+      <img src="29.png" style="width: 40%; height: auto;"><br>
     </td>
     <td style="text-align: center;">
-      <img src="30.png" alt="Unity" style="width: 100px; height: auto;"><br>
-      <p>Unity</p>
+      <img src="30.png" style="width: 40%; height: auto;"><br>
     </td>
   </tr>
 </table>
