@@ -1,5 +1,7 @@
 # UMKC XR Summer Camp 2024
 
+![A photo of the outside of the Plaster Free Enterprise and Research Center at UMKC](6.png)
+
 Welcome to the UMKC XR Summer Camp! This program is designed to immerse students in the exciting world of virtual and augmented reality. By the end of this camp, students will have a solid foundation in Unity and the skills necessary to create their own immersive experiences.
 
 ## Schedule for June 2024
