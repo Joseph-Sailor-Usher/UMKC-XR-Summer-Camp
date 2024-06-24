@@ -57,7 +57,7 @@ Welcome to the UMKC XR Summer Camp! This program is designed to immerse students
 ### Blender
 - **Installing Blender:** [Blender](https://www.blender.org)
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <div>
     <img src="27.png" alt="Virtual Reality" style="width: 100%; height: auto;">
     <p style="text-align: center;">Virtual Reality</p>
