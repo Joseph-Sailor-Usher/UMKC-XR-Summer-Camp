@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus/Tool Download List.md",
+                "file": "Syllabus/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus/Tool Download List.md",
+                "file": "Syllabus/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syllabus/Tool Download List.md",
+                "file": "Syllabus/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus/Tool Download List.md"
+                "file": "Syllabus/Resources.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "0bb30821d38f8844",
   "lastOpenFiles": [
-    "Syllabus/Resources.md",
-    "Syllabus/Tool Download List.md",
+    "Tools/Blender.md",
     "Syllabus/2024 Syllabus.md",
+    "Basics/CMR.md",
+    "Basics/AR.md",
+    "Syllabus/Tool Download List.md",
+    "Syllabus/Resources.md",
     "Syllabus/Intro to VR and AR.md",
     "2023 Course Content/2023 Syllabus (Do not use).md",
     "Tools/Unity.md",
@@ -159,7 +162,6 @@
     "Tools/Blender.md.meta",
     "Tools/Obsidian.md.meta",
     "Tools/Obsidian.md",
-    "Tools/Blender.md",
     "Tools/Meta XR All-In-One SDK.md",
     "Tools/Resources.md.meta",
     "Tools/Meta XR All-In-One SDK.md.meta",
@@ -168,9 +170,7 @@
     "Tools/Unity.md.meta",
     "Basics/MR.md.meta",
     "Basics/MR.md",
-    "Basics/AR.md",
     "Basics/Haptic.md",
-    "Basics/CMR.md",
     "Basics/HMD.md",
     "Basics/VR.md",
     "create a link.md",
